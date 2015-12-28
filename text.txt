@@ -1,0 +1,9 @@
+
+optimisées pour le Web
+
+- format `.woff2` (alternatives en `.woff` et `.ttf` fournies)
+- caractères latins, accents et devises uniquement (subsetting)
+- hauteur de "x" adaptée ("arial" pour fontes sans-serif et "times new roman" ou "georgia" pour serif)
+- fichier CSS `@font-face` fourni
+- hack `?#iefix` pour éviter le chargement inutile de fichiers
+- licences fournies

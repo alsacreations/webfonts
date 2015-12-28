@@ -1,0 +1,10 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'opensans';
+    src: url('opensans-bold.woff2?#iefix') format('woff2'),
+         url('opensans-bold.woff') format('woff'),
+         url('opensans-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}

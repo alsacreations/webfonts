@@ -1,0 +1,10 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'droidsans';
+    src: url('droidsans.woff2?#iefix') format('woff2'),
+         url('droidsans.woff') format('woff'),
+         url('droidsans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

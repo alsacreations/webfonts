@@ -1,0 +1,11 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'merriweather';
+    src: url('merriweather-bold.woff2?#iefix') format('woff2'),
+         url('merriweather-bold.woff') format('woff'),
+         url('merriweather-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+
+}
