@@ -1,10 +1,12 @@
 # webfonts collection
 Une collection de webfonts libres, prêtes à l'emploi et optimisées pour le web.
 
-Est-ce que vous cherchez votre fonte sur Google Fonts (ou équivalent), la téléchargez, la passez dans différents formats (via fontsquirrel par ex.)&nbsp;? Systématiquement à chaque nouveau projet&nbsp;?
+- parce que vous n'utilisez pas le CDN de Google Font ou Typekit (et que [vous avez probablement raison](http://www.alsacreations.com/article/lire/1695-partis-tiers-impacts-sur-la-vitesse-de-vos-sites.html)),
+- parce que vous cherchez et installez vos fontes à la main,
+- et qu'ensuite vous les adaptez et optimisez pour le web,
+- systématiquement à chaque nouveau projet...
 
 Alors il y a des chances que vous trouviez ici votre bonheur déjà prêt à l'emploi.
-
 
 Les critères en considération pour figurer dans cette liste :
 - être une fonte couramment employée sur le web, libre et gratuite
