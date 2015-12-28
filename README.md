@@ -7,13 +7,14 @@ Alors il y a des chances que vous trouviez ici votre bonheur déjà prêt à l'e
 
 
 Les critères en considération pour figurer dans cette liste :
-- format `.woff2` prioritaire (alternatives en `.woff` et `.ttf` fournies)
-- caractères latins, accents et devises uniquement (subsetting)
-- hauteur de "x" adaptée pour fontes alternatives ajustées ("arial" pour fontes sans-serif et "georgia" pour fontes serif)
-- fichier CSS `@font-face` fourni
-- hack `?#iefix` pour éviter le chargement inutile de fichiers sur les anciens IE
-- pas de prise en compte de IE8 et antérieur (ils afficheront la fonte alternative)
-- licences fournies
+- être une fonte couramment employée sur le web, libre et gratuite
+- proposer le format `.woff2` prioritairement (alternatives en `.woff` et `.ttf` fournies)
+- se limiter aux caractères latins, accents et devises uniquement (subsetting)
+- disposer d'hauteur de "x" adaptée pour fontes alternatives ajustées ("arial" pour fontes sans-serif et "georgia" pour fontes serif)
+- proposer le fichier CSS `@font-face` fourni
+- ajouter le hack `?#iefix` pour éviter le chargement inutile de fichiers sur les anciens IE
+- ne pas tenir compte de IE8 et antérieur (pas de `.eot`, ils afficheront la fonte alternative)
+- fournir les licences dans le dossier de fonte
 
 *N'hésitez pas à proposer vos contributions de fontes, sous condition qu'elles respectent les critères ci-dessus.*
 
