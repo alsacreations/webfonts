@@ -7,3 +7,26 @@ une collection de webfonts libres, prêtes à l'emploi et optimisées pour le we
 - fichier CSS `@font-face` fourni
 - hack `?#iefix` pour éviter le chargement inutile de fichiers
 - licences fournies
+
+Exemple de `@font-face` fourni :
+
+```css
+/* Fonts */
+
+@font-face {
+    font-family: 'merriweather';
+    src: url('merriweather-bold.woff2?#iefix') format('woff2'),
+         url('merriweather-bold.woff') format('woff'),
+         url('merriweather-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+```
+
+Usage :
+
+```css
+h1 {
+  font-family: merriweather, georgia, serif;
+}
+```
