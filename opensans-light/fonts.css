@@ -1,0 +1,10 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'opensans-light';
+    src: url('opensans-light.woff2?#iefix') format('woff2'),
+         url('opensans-light.woff') format('woff'),
+         url('opensans-light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

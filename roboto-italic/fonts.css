@@ -1,0 +1,10 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'roboto';
+    src: url('roboto-italic.woff2?#iefix') format('woff2'),
+         url('roboto-italic.woff') format('woff'),
+         url('roboto-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}

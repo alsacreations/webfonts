@@ -11,7 +11,8 @@ Les critères en considération pour figurer dans cette liste :
 - caractères latins, accents et devises uniquement (subsetting)
 - hauteur de "x" adaptée pour fontes alternatives ajustées ("arial" pour fontes sans-serif et "georgia" pour fontes serif)
 - fichier CSS `@font-face` fourni
-- hack `?#iefix` pour éviter le chargement inutile de fichiers
+- hack `?#iefix` pour éviter le chargement inutile de fichiers sur les anciens IE
+- pas de prise en compte de IE8 et antérieur (ils afficheront la fonte alternative)
 - licences fournies
 
 Exemple de `@font-face` fourni :

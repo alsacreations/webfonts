@@ -1,0 +1,10 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'lato';
+    src: url('lato-bold.woff2?#iefix') format('woff2'),
+         url('lato-bold.woff') format('woff'),
+         url('lato-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
