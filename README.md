@@ -1,6 +1,12 @@
-# webfonts
-une collection de webfonts libres, prêtes à l'emploi et optimisées pour le web :
+# webfonts collection
+Une collection de webfonts libres, prêtes à l'emploi et optimisées pour le web.
 
+Est-ce que vous cherchez votre fonte sur Google Fonts (ou équivalent), la téléchargez, la passez dans différents formats (via fontsquirrel par ex.)&nbsp;? Systématiquement à chaque nouveau projet&nbsp;?
+
+Alors il y a des chances que vous trouviez ici votre bonheur déjà prêt à l'emploi.
+
+
+Les critères en considération pour figurer dans cette liste :
 - format `.woff2` prioritaire (alternatives en `.woff` et `.ttf` fournies)
 - caractères latins, accents et devises uniquement (subsetting)
 - hauteur de "x" adaptée pour fontes alternatives ajustées ("arial" pour fontes sans-serif et "georgia" pour fontes serif)
