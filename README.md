@@ -15,6 +15,8 @@ Les critères en considération pour figurer dans cette liste :
 - pas de prise en compte de IE8 et antérieur (ils afficheront la fonte alternative)
 - licences fournies
 
+*N'hésitez pas à proposer vos contributions de fontes, sous condition qu'elles respectent les critères ci-dessus.*
+
 Exemple de `@font-face` fourni :
 
 ```css
