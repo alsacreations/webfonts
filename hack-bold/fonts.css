@@ -2,9 +2,9 @@
 
 @font-face {
     font-family: 'hack';
-    src: url('hack-bold-webfont.woff2?#iefix') format('woff2'),
-         url('hack-bold-webfont.woff') format('woff'),
-         url('hack-bold-webfont.ttf') format('truetype');
+    src: url('hack-bold.woff2?#iefix') format('woff2'),
+         url('hack-bold.woff') format('woff'),
+         url('hack-bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
