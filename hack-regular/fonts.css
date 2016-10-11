@@ -1,0 +1,10 @@
+/* Fonts */
+
+@font-face {
+    font-family: 'hack';
+    src: url('hack-regular.woff2?#iefix') format('woff2'),
+         url('hack-regular.woff') format('woff'),
+         url('hack-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
